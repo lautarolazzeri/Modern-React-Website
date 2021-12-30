@@ -1,10 +1,10 @@
 import React from 'react';
 import './features.css';
 
-function Features() {
+function Features({ title, text }) {
     return (
         <div>
-            Features
+            
         </div>
     )
 }
